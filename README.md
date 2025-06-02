@@ -13,6 +13,14 @@ Program ini membutuhkan Ruby versi 2.5 ke atas. <br>
 Cek apakah Ruby sudah terinstall dengan cara ```ruby -v``` <br>
 Jika belum terinstall, silakan install Ruby dari https://www.ruby-lang.org/en/downloads/
 
+## Struktur Repositori
+```
+Tugas-Tantangan-STIMA
+├── main.rb
+├── README.md
+└── test/     # Berisi testing file dalam ekstensi .txt dan screenshots hasil testing
+```
+
 ## Cara Menjalankan Program
 Buka terminal IDE/cmd, kemudian masukkan perintah berikut
 ```
